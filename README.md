@@ -1,2 +1,4 @@
 # GameHuaRongDao
-安卓开发的华容道游戏，中国风界面设计，支持关卡选择，背景音乐播放
+ An Android mobile game deployed on the Google Play, using Java and Android Studio.
+ Implemented multi-levels settings, step count and music playback functions.
+ https://play.google.com/store/apps/details?id=com.middle.cxq.gamehuarongdao&hl=zh&gl=US&pli=1
